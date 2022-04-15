@@ -1,7 +1,7 @@
 from discord.ext import commands
 from NhentaiAPI import Doujin
 
-TOKEN = "ODg3MDEwNjc1MDgyMjg1MDc3.YT97EA.MJeEuoSpMKoS6zQqSMD0ahC4I8k"
+TOKEN = "nice try mate use your own"
 
 bot = commands.Bot(command_prefix='>')
 
